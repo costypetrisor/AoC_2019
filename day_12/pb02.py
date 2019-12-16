@@ -1,5 +1,6 @@
 
 import collections
+import copy
 import datetime
 import enum
 import functools
